@@ -1,0 +1,9 @@
+C:\Users\antho\OneDrive\Git\PetOwner\PetOwnerDTO\bin\Debug\PetOwnerDTO.dll
+C:\Users\antho\OneDrive\Git\PetOwner\PetOwnerDTO\bin\Debug\PetOwnerDTO.pdb
+C:\Users\antho\OneDrive\Git\PetOwner\PetOwnerDTO\obj\Debug\PetOwnerDTO.dll
+C:\Users\antho\OneDrive\Git\PetOwner\PetOwnerDTO\obj\Debug\PetOwnerDTO.pdb
+C:\Users\antho\OneDrive\Git\PetOwnerTest\PetOwner\PetOwnerDTO\bin\Debug\PetOwnerDTO.dll
+C:\Users\antho\OneDrive\Git\PetOwnerTest\PetOwner\PetOwnerDTO\bin\Debug\PetOwnerDTO.pdb
+C:\Users\antho\OneDrive\Git\PetOwnerTest\PetOwner\PetOwnerDTO\obj\Debug\PetOwnerDTO.csprojResolveAssemblyReference.cache
+C:\Users\antho\OneDrive\Git\PetOwnerTest\PetOwner\PetOwnerDTO\obj\Debug\PetOwnerDTO.dll
+C:\Users\antho\OneDrive\Git\PetOwnerTest\PetOwner\PetOwnerDTO\obj\Debug\PetOwnerDTO.pdb

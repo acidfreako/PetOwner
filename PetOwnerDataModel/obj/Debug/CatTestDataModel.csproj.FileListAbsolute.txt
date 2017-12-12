@@ -1,0 +1,5 @@
+C:\Users\antho\OneDrive\Git\CatTest\CatTestDataModel\bin\Debug\CatTestDataModel.dll
+C:\Users\antho\OneDrive\Git\CatTest\CatTestDataModel\bin\Debug\CatTestDataModel.pdb
+C:\Users\antho\OneDrive\Git\CatTest\CatTestDataModel\obj\Debug\CatTestDataModel.dll
+C:\Users\antho\OneDrive\Git\CatTest\CatTestDataModel\obj\Debug\CatTestDataModel.pdb
+C:\Users\antho\OneDrive\Git\CatTest\CatTestDataModel\obj\Debug\CatTestDataModel.csprojResolveAssemblyReference.cache
